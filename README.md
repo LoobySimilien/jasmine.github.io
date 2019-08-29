@@ -11,6 +11,7 @@
  1. You can install them in the local folder, instead of globally for the system with (`bundle install --path vendor/bundle`)
 1. Install JS dependencies (`npm install`)
 
+
 ## Make your changes
 
 You're ready to make some changes to the documentation!
